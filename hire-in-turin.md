@@ -1,0 +1,10 @@
+# 在都灵招聘
+
+> 在都灵招聘员工：主要行业、大学、地方个税附加、到手工资和给中国汽车与新能源企业的实用提示。
+
+
+<section> <span class="eyebrow">按城市招聘</span> <h1 id="hire-in-turin">在都灵招聘</h1> <p class="lede">都灵是意大利汽车工业的发源地。今天它是汽车工程、航空航天和软件的中心，拥有很强的理工大学，成本低于米兰。对中国的整车、零部件和新能源企业来说，这里的工程师大多有大型车企和供应链经验。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要行业</h3><p>汽车及零部件、航空航天与空间系统、工业自动化、ICT与软件、食品饮料品牌和银行业。</p></div> <div class="panel"><h3 id="talent-pools">人才来源</h3><p>都灵理工大学（机械、航空、电子和计算机工程）、都灵大学（科学、经济和法律）。很多工程师有大型工业集团的工作经历。</p></div> </section> <section> <h2 id="local-income-tax">都灵的地方个税附加</h2> <p class="prose">在全国个人所得税（IRPEF）之外，员工还要缴纳市级和大区级附加税，由我们通过工资代扣。</p> <div class="tbl"><table> <thead><tr><th>项目</th><th>2026年数值</th><th>状态</th></tr></thead> <tbody> <tr><td>市级附加税率</td><td>四档：0.8%、0.8%、1.1%、1.2%</td><td>来源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026表，2026年10月27日查阅。<span class="tag">二手来源</span> 尚未核对2026年市议会决议。</td></tr> <tr><td>市级免征额</td><td>€11,790</td><td>同一来源。</td></tr> <tr><td>大区附加税（皮埃蒙特大区）</td><td>第一档1.62%（€15,000以内）</td><td>来源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026年10月27日查阅。<span class="tag">未核实</span> 更高档税率需在finanze.gov.it确认。其他档未读取。2026至2028年计划上调。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">对到手工资的影响</h2> <p>都灵是五个城市中唯一实行累进市级附加税的。低收入者0.8%，最高档升至1.2%，免征额也是五城中最低。同等税前工资下，都灵的资深工程师和经理比米兰或博洛尼亚交更多市级附加税，较低的住房成本通常能抵消。</p>  </section> <section class="prose"> <h2 id="practical-notes">实用提示</h2> <ul> <li><b>通勤。</b>一条地铁线，加上有轨电车、公交和市郊铁路。城市平坦紧凑，很多人骑车。</li><li><b>交通。</b>高铁约一小时到米兰。都灵机场有欧洲航线，去中国需经枢纽或米兰马尔彭萨转机。</li>  <li><b>时差。</b>意大利冬季为UTC+1，夏季为UTC+2；北京时间比意大利早7小时（冬季）或6小时（夏季）。意大利同事9:00–18:00上班，与北京9:00–18:00的工作时间重叠约2小时（冬季，意大利9:00–11:00）或3小时（夏季，意大利9:00–12:00）。把例会安排在意大利上午，其余用异步交接。</li> </ul> </section> <section class="prose"> <h2 id="start">在都灵开始招聘</h2> <p>先估算雇主总成本，再告诉我们岗位情况。</p> <div class="cta"><a class="btn" href="calculator.html">打开计算器</a><a class="btn ghost" href="contact.html">获取报价</a></div> </section>
+
+
+---
+Source: https://yipinitaly.com/hire-in-turin.html

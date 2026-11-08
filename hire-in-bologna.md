@@ -1,0 +1,10 @@
+# 在博洛尼亚招聘
+
+> 在博洛尼亚招聘员工：主要行业、大学、地方个税附加、到手工资和给中国企业的实用提示。
+
+
+<section> <span class="eyebrow">按城市招聘</span> <h1 id="hire-in-bologna">在博洛尼亚招聘</h1> <p class="lede">博洛尼亚位于欧洲最富裕的制造业地区之一的中心。包装机械、摩托车和跑车品牌、食品集团环绕四周，西方世界最古老的大学为它们输送人才。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要行业</h3><p>包装与自动化机械（"包装谷"）、摩托车与跑车、机电一体化、食品加工、物流，以及围绕Tecnopolo和CINECA的高性能计算。</p></div> <div class="panel"><h3 id="talent-pools">人才来源</h3><p>博洛尼亚大学是意大利规模最大的大学之一，涵盖工程、计算机、经济和农学。附近的摩德纳、雷焦艾米利亚、费拉拉和帕尔马的大学也培养大量机械和汽车工程师。</p></div> </section> <section> <h2 id="local-income-tax">博洛尼亚的地方个税附加</h2> <p class="prose">在全国个人所得税（IRPEF）之外，员工还要缴纳市级和大区级附加税，由我们通过工资代扣。</p> <div class="tbl"><table> <thead><tr><th>项目</th><th>2026年数值</th><th>状态</th></tr></thead> <tbody> <tr><td>市级附加税率</td><td>0.8%</td><td>来源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026表，2026年10月27日查阅。<span class="tag">二手来源</span> 尚未核对2026年市议会决议。</td></tr> <tr><td>市级免征额</td><td>€15,000</td><td>同一来源。</td></tr> <tr><td>大区附加税（艾米利亚-罗马涅大区）</td><td>第一档1.33%（€15,000以内）</td><td>来源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026年10月27日查阅。<span class="tag">未核实</span> 更高档税率需在finanze.gov.it确认。其他档未读取。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">对到手工资的影响</h2> <p>博洛尼亚市级税率低、免征额适中，艾米利亚-罗马涅大区起始税率也较低。相同税前工资，到手接近米兰，高于罗马和那不勒斯。比较资深岗位前，仍需核对大区更高档税率。</p>  </section> <section class="prose"> <h2 id="practical-notes">实用提示</h2> <ul> <li><b>通勤。</b>公交和市郊铁路。很多工业企业在城外，常需开车或班车。</li><li><b>交通。</b>博洛尼亚是高铁枢纽：约一小时到米兰和佛罗伦萨，约两小时十五分到罗马。机场有欧洲航线。</li>  <li><b>时差。</b>意大利冬季为UTC+1，夏季为UTC+2；北京时间比意大利早7小时（冬季）或6小时（夏季）。意大利同事9:00–18:00上班，与北京9:00–18:00的工作时间重叠约2小时（冬季，意大利9:00–11:00）或3小时（夏季，意大利9:00–12:00）。把例会安排在意大利上午，其余用异步交接。</li> </ul> </section> <section class="prose"> <h2 id="start">在博洛尼亚开始招聘</h2> <p>先估算雇主总成本，再告诉我们岗位情况。</p> <div class="cta"><a class="btn" href="calculator.html">打开计算器</a><a class="btn ghost" href="contact.html">获取报价</a></div> </section>
+
+
+---
+Source: https://yipinitaly.com/hire-in-bologna.html

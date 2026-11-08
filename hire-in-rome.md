@@ -1,0 +1,10 @@
+# 在罗马招聘
+
+> 在罗马招聘员工：主要行业、大学、地方个税附加、到手工资和给中国企业的实用提示。
+
+
+<section> <span class="eyebrow">按城市招聘</span> <h1 id="hire-in-rome">在罗马招聘</h1> <p class="lede">罗马是首都和政府所在地。如果您的客户包括公共机构、能源集团、电信运营商或基础设施项目，在罗马设团队就能贴近他们。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要行业</h3><p>公共部门及其服务商、能源与公用事业、电信、航空航天、影视制作、旅游，以及联合国粮农组织等国际机构。</p></div> <div class="panel"><h3 id="talent-pools">人才来源</h3><p>罗马大学（欧洲最大的大学之一）、罗马第二大学（工程与经济）、罗马第三大学，以及LUISS（法律、商科和政治学）。</p></div> </section> <section> <h2 id="local-income-tax">罗马的地方个税附加</h2> <p class="prose">在全国个人所得税（IRPEF）之外，员工还要缴纳市级和大区级附加税，由我们通过工资代扣。</p> <div class="tbl"><table> <thead><tr><th>项目</th><th>2026年数值</th><th>状态</th></tr></thead> <tbody> <tr><td>市级附加税率</td><td>0.9%</td><td>来源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026表，2026年10月27日查阅。<span class="tag">二手来源</span> 尚未核对2026年市议会决议。</td></tr> <tr><td>市级免征额</td><td>€14,000</td><td>同一来源。</td></tr> <tr><td>大区附加税（拉齐奥大区）</td><td>€15,000以内1.73%；€28,000以上3.33%</td><td>来源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026年10月27日查阅。<span class="tag">未核实</span> 更高档税率需在finanze.gov.it确认。中间档未读取。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">对到手工资的影响</h2> <p>拉齐奥大区在€28,000以上的税率是意大利最高的之一，0.9%的市级税率也高于米兰和博洛尼亚。大多数专业岗位工资都落在3.33%这一档。相同税前工资，罗马员工到手通常比米兰或博洛尼亚少。如果各城市同薪，罗马的员工会注意到。</p>  </section> <section class="prose"> <h2 id="practical-notes">实用提示</h2> <ul> <li><b>通勤。</b>地铁网络相对城市规模偏小，交通拥堵。办公室选址很关键：靠近地铁或区域铁路站，并允许混合办公。</li>  <li><b>时差。</b>意大利冬季为UTC+1，夏季为UTC+2；北京时间比意大利早7小时（冬季）或6小时（夏季）。意大利同事9:00–18:00上班，与北京9:00–18:00的工作时间重叠约2小时（冬季，意大利9:00–11:00）或3小时（夏季，意大利9:00–12:00）。把例会安排在意大利上午，其余用异步交接。</li> </ul> </section> <section class="prose"> <h2 id="start">在罗马开始招聘</h2> <p>先估算雇主总成本，再告诉我们岗位情况。</p> <div class="cta"><a class="btn" href="calculator.html">打开计算器</a><a class="btn ghost" href="contact.html">获取报价</a></div> </section>
+
+
+---
+Source: https://yipinitaly.com/hire-in-rome.html

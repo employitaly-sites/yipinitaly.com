@@ -1,0 +1,10 @@
+# 在米兰招聘
+
+> 在米兰招聘员工：主要行业、大学、地方个税附加、到手工资和给中国企业的实用提示。
+
+
+<section> <span class="eyebrow">按城市招聘</span> <h1 id="hire-in-milan">在米兰招聘</h1> <p class="lede">米兰是大多数外国企业在意大利的第一站，也是中资企业欧洲或南欧总部最集中的城市。金融、时尚、咨询和科技争抢同一批人才，节奏快，候选人的薪资预期也比较坚定。</p> </section> <section class="grid"> <div class="panel"><h3 id="main-sectors">主要行业</h3><p>银行与资产管理、时尚与奢侈品、工业设计、咨询、媒体、医药，以及大多数跨国公司的区域总部。金融科技和SaaS创业圈正在扩大。</p></div> <div class="panel"><h3 id="talent-pools">人才来源</h3><p>米兰理工大学（工程与设计）、博科尼大学（经济与管理）、米兰大学（法律、科学、医学）、米兰比可卡大学（科学与统计）。</p></div> </section> <section> <h2 id="local-income-tax">米兰的地方个税附加</h2> <p class="prose">在全国个人所得税（IRPEF）之外，员工还要缴纳市级和大区级附加税，由我们通过工资代扣。</p> <div class="tbl"><table> <thead><tr><th>项目</th><th>2026年数值</th><th>状态</th></tr></thead> <tbody> <tr><td>市级附加税率</td><td>0.8%</td><td>来源：<a href="https://www.pmi.it/impresa/contabilita-e-fisco/493120/addizionali-comunali-irpef-esenzioni-capoluoghi.html">pmi.it</a>，730/2026表，2026年10月27日查阅。<span class="tag">二手来源</span> 尚未核对2026年市议会决议。</td></tr> <tr><td>市级免征额</td><td>€23,000</td><td>同一来源。</td></tr> <tr><td>大区附加税（伦巴第大区）</td><td>第一档1.23%（€15,000以内）</td><td>来源：<a href="https://quifinanza.it/fisco-tasse/addizionale-irpef-regionale-2026/1008538/">quifinanza.it</a>，2026年10月27日查阅。<span class="tag">未核实</span> 更高档税率需在finanze.gov.it确认。约€35,000收入对应税率有报道为1.58%。</td></tr> </tbody> </table></div> </section> <section class="prose"> <h2 id="net-pay">对到手工资的影响</h2> <p>米兰的市级免征额是五个城市中最高的。低收入员工在米兰不交市级附加税，在罗马或那不勒斯则要交。中高收入的0.8%税率在大城市中也属较低，伦巴第大区起始税率同样较低。相同税前工资，米兰员工到手通常比罗马或那不勒斯略多。</p>  </section> <section class="prose"> <h2 id="practical-notes">实用提示</h2> <ul> <li><b>通勤。</b>五条地铁线、市郊铁路和有轨电车。很多员工住在蒙扎、贝加莫、帕维亚或诺瓦拉，坐火车上班。</li>  <li><b>时差。</b>意大利冬季为UTC+1，夏季为UTC+2；北京时间比意大利早7小时（冬季）或6小时（夏季）。意大利同事9:00–18:00上班，与北京9:00–18:00的工作时间重叠约2小时（冬季，意大利9:00–11:00）或3小时（夏季，意大利9:00–12:00）。把例会安排在意大利上午，其余用异步交接。</li> </ul> </section> <section class="prose"> <h2 id="start">在米兰开始招聘</h2> <p>先估算雇主总成本，再告诉我们岗位情况。</p> <div class="cta"><a class="btn" href="calculator.html">打开计算器</a><a class="btn ghost" href="contact.html">获取报价</a></div> </section>
+
+
+---
+Source: https://yipinitaly.com/hire-in-milan.html
